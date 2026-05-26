@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project is a static e-commerce style website for a simple tech store. It was built using HTML and CSS as part of a web development bootcamp assignment.
 
-The website displays a selection of technology products such as laptops, gaming computer, headphones, and accessories using a clean and structured layout.
+The website displays a selection of technology products such as gaming pc, monitor, desk, and accessories using a clean and structured layout.
 
 ---
 
