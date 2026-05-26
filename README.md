@@ -32,7 +32,7 @@ https://DyllanMeissenheimer23.github.io/my-static-site/
 ## 📁 Project Structure
 - index.html → Main homepage
 - style.css → Styling for the website
-- images/ → Product images (if applicable)
+- images/ → Product images 
 
 ---
 
