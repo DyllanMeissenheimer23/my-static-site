@@ -1,0 +1,91 @@
+/* Header & Footer background */
+header .navbar,
+footer {
+    background-color: #1e1e2f; /* Smooth dark blue/purple shade */
+    color: #ffffff;
+}
+
+/* Navbar links color */
+.navbar .nav-link {
+    color: #ffffff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #ff9800; /* Highlight color on hover */
+}
+
+/* Brand logo text color */
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+/* Card styles */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+/* Entire card pop on hover */
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
+/* Card image */
+.card-img-top {
+    max-height: 200px;
+    object-fit: contain;
+    margin-top: 10px;
+}
+
+/* Card title (product name) */
+.card-title {
+    font-size: 1.1rem; 
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/* Card price */
+.card-text {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #333;
+}
+
+/* Buy button */
+.btn-primary {
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+/* Press effect on hover */
+.btn-primary:hover {
+    transform: translateY(2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Press effect on click */
+.btn-primary:active {
+    transform: translateY(4px);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+/* Footer text */
+footer {
+    color: #ffffff;
+}
+
+footer .form-control {
+    border-radius: 0;
+}
+
+/* Footer copyright */
+footer .text-center {
+    color: #ffffff;
+    font-size: 0.9rem;
+}
+
+
